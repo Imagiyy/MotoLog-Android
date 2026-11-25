@@ -12,10 +12,22 @@
 
 Get the latest production release from the **[Releases Section](https://github.com/Imagiyy/MotoLog-Android/releases)**:
 
-1. Download **** from the latest release.
+1. Download **MotoLog.apk** from the latest release.
 2. Open the file on your Android device.
 3. If prompted, allow installation from unknown sources.
 4. Launch **MotoLog** and grant Location / Notification permissions when prompted.
+
+> **Upgrading from v1.0.0?** Back up your rides in **Settings → Backup & Restore** before updating, as v2.0.0 introduces a fresh release signing certificate.
+
+---
+
+## ✨ What's New in v2.0.0
+
+- **Launch Splash & Animated Loading Screen**: Instant branded startup splash and smooth loading transition.
+- **Redesigned App Theme & Color Customizer**: 8 one-tap curated cockpit color themes, live cockpit preview with WCAG contrast indicator, inline element tabs (`Text`, `Accent`, `Background`, `Surface`), HSV fine-tuning sliders, and HEX input.
+- **Reset Mileage Baseline Option**: Reset a bike's mileage period while optionally continuing from its current odometer as the new baseline for subsequent distance and fuel economy.
+- **Remembered Dialog Preferences**: Automatically remembers your chosen checkbox options for Mileage Reset, Fuel Fill-Ups, and GPX Imports.
+- **MapLibre Ride Summary & Speed Optimizations**: Real dark vector map ride summaries, smoother route geometry, offloaded startup initialization, and faster reactive Garage/Fuel queries.
 
 ---
 
